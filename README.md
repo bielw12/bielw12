@@ -1,5 +1,5 @@
 # 💫 About Me:
-👾Gabriel<br>🤖Front-end Developer<br>✞Belong to Jesus<br>
+👾Gabriel<br>🤖Front-end Developer<br>✝Belong to Jesus<br>
 
 
 ## 🌐 Socials:
