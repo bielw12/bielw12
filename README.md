@@ -1,5 +1,4 @@
-# 💫 About Me:
-👾Gabriel<br>🤖Front-end Developer<br>✝Belong to Jesus<br>
+EU SOU VIADOOOOOOO
  
   
 ## 🌐 Socials:
