@@ -62,8 +62,6 @@ me.hello_world()
 
 ---
 
-## 📊 Estatísticas
-
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=bielw12&show_icons=true&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" />
   &nbsp;&nbsp;
