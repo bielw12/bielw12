@@ -14,8 +14,6 @@
 
 ---
 
-## 🧠 Sobre mim
-
 ```python
 class Gabriel:
     def __init__(self):
@@ -35,8 +33,6 @@ me.hello_world()
 ```
 
 ---
-
-## 🛠️ Tecnologias
 
 **Linguagens & Frameworks**
 
@@ -80,15 +76,12 @@ me.hello_world()
 
 ---
 
-## 📈 Gráfico de Atividade
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bielw12&bg_color=0d1117&color=00B4D8&line=00B4D8&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 Troféus
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bielw12&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
@@ -96,7 +89,6 @@ me.hello_world()
 
 ---
 
-## 🐍 Animação de Contribuições
 
 <div align="center">
 
