@@ -90,15 +90,6 @@ me.hello_world()
 
 <div align="center">
 
-> ⚙️ Ative o GitHub Actions no repositório `bielw12` para gerar a animação automática.  
-> Crie o arquivo `.github/workflows/snake.yml` com o código da documentação do [Platane/snk](https://github.com/Platane/snk).
-
-</div>
-
----
-
-<div align="center">
-
 *"Dados são o novo petróleo — mas só valem quando refinados."* 🛢️✨
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=90&section=footer)
