@@ -70,12 +70,6 @@ me.hello_world()
 
 </div>
 
-<div align="center">
-
-<img height="195" alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=bielw12&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff&stroke=00B4D8" />
-
-</div>
-
 ---
 
 <div align="center">
