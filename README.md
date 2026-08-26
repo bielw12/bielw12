@@ -63,30 +63,32 @@ me.hello_world()
 ---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bielw12&show_icons=true&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielw12&hide_border=true&title_color=00B4D8&text_color=ffffff&bg_color=0d1117&layout=compact&langs_count=8" />
+
+<img height="195" alt="Estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bielw12&theme=github_dark" />
+&nbsp;&nbsp;
+<img height="195" alt="Linguagens mais usadas nos repositórios" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bielw12&theme=github_dark" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bielw12&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff&stroke=00B4D8" />
+
+<img height="195" alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=bielw12&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff&stroke=00B4D8" />
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bielw12&bg_color=0d1117&color=00B4D8&line=00B4D8&point=ffffff&area=true&hide_border=true" />
+
+**Contribuições no último ano**
+
+<br/>
+
+<img width="100%" alt="Quadro de contribuições" src="https://ghchart.rshah.org/00B4D8/bielw12" />
+
 </div>
 
 ---
-
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bielw12&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
 
 <div align="center">
 
